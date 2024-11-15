@@ -48,6 +48,8 @@ Additionally, the South-West geopolitical zone emerges as a key area of interest
 
 ![image](https://github.com/user-attachments/assets/9daa465f-539a-40b7-87da-18cd3be160b8)
 
+[Click here to interact with the map](https://experience.arcgis.com/experience/dbafd07beb1d45e7bd7a3fd34b5cdc9e/)
+
 
 #### 3. Seasonal Demand Variations:
 
