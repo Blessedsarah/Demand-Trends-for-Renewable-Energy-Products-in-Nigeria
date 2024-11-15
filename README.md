@@ -17,7 +17,7 @@ The insights aim to guide strategic decision-making for marketing and distributi
 
 ## Data Source and Methodology
 For this analysis, we used data from Google Trends, which shows the popularity of search terms. Google Trends assigns a popularity score on a scale of 0 to 100, reflecting the relative interest in a search term. This tool was essential for capturing demand trends for renewable energy products, as it highlights search activity and interest over time, offering insight into geographic and seasonal variations.
-Here's a refined version: [Dataset](https://docs.google.com/spreadsheets/d/1-4TVYBuIsPe_jBvXlVSyC5XT3r35GAzV/edit?usp=drive_link&ouid=105848592048936586756&rtpof=true&sd=true
+Here's a refined version of the data: [Dataset](https://docs.google.com/spreadsheets/d/1-4TVYBuIsPe_jBvXlVSyC5XT3r35GAzV/edit?usp=drive_link&ouid=105848592048936586756&rtpof=true&sd=true
 ) 
 ### Tools Used: 
 - ArcGIS, Excel, Pivot Table, Power Query, VLOOKUP, Charts, and Graphs  
