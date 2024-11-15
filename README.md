@@ -1,5 +1,8 @@
 # Demand-Trends-for-Renewable-Energy-Products-in-Nigeria
 ## Contributors
+- [Blessedsarah Omolola](https://github.com/Blessedsarah)
+- [Damilare Adefowope](https://github.com/EmmanetD)
+- [Diseph Dum-Igoni](https://github.com/disephD)
 
 ## Project Overview
 This project offers a comprehensive analysis of market demand for renewable energy products in Nigeria over time, including batteries, inverters, solar panels, solar generators, solar fans, biogas, and wind turbines. The objectives are to:  
