@@ -1,4 +1,4 @@
-# Demand-Trends-for-Renewable-Energy-Products-in-Nigeria
+# Demand Trends for Renewable Energy Products in Nigeria
 ## Contributors
 - [Blessedsarah Omolola](https://github.com/Blessedsarah)
 - [Damilare Adefowope](https://github.com/EmmanetD)
