@@ -20,9 +20,9 @@ For this analysis, we used data from Google Trends, which shows the popularity o
 Here's a refined version: [Dataset](https://docs.google.com/spreadsheets/d/1-4TVYBuIsPe_jBvXlVSyC5XT3r35GAzV/edit?usp=drive_link&ouid=105848592048936586756&rtpof=true&sd=true
 ) 
 ### Tools Used: 
-- Excel, Pivot Table, Power Query, VLOOKUP, Charts, and Graphs  
+- ArcGIS, Excel, Pivot Table, Power Query, VLOOKUP, Charts, and Graphs  
 
-We downloaded the data and proceeded with cleaning and preparation. The data was then merged into two separate tables: one for yearly data and another for regional data. VLOOKUP was utilized to assign states to their respective geopolitical regions, ensuring accurate regional classification. The final analysis was presented using Pivot Tables, charts, and graphs to visualize insights effectively. 
+We downloaded the data and proceeded with cleaning and preparation. The data was then merged into two separate tables: one for yearly data and another for regional data. VLOOKUP was utilized to assign states to their respective geopolitical regions, ensuring accurate regional classification. The final analysis was presented using Pivot Tables, charts, and graphs to visualize insights effectively. ArcGIS was used to create a geographical representation of the individual products across different region
 
 ## Key Findings
 #### 1. Most In-Demand Products:
