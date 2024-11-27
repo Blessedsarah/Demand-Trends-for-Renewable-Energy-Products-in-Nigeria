@@ -60,7 +60,7 @@ Additionally, the South-West geopolitical zone emerges as a key area of interest
 
 The demand for renewable energy products in Nigeria has shown consistent growth across recent years. The trends to note include:
 - Interest in solar generators and solar fans has seen a significant uptrend since 2021.
-- In contrast, interest in biogas products experienced a steep decline in 2024.
+- In contrast, interest in biogas products experienced a steep decline in 2024. Although biogas technology has proven to be a reliable and sustainable source of clean energy that could enable an affordable, reliable and available alternative clean energy solution in Nigeria, it has only gained little legislative adoption and implementation in the Nigerian energy policy.
 
 ![image](https://github.com/user-attachments/assets/03107aa7-708e-47a3-a3e9-a9e9ba743c48)
 
